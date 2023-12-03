@@ -3,9 +3,8 @@ import usePlaneControls from './usePlaneControls';
 import { useGLTF } from '@react-three/drei';
 import { Group } from 'three';
 import * as THREE from 'three';
-import { useFrame } from 'react-three-fiber';
+import { useFrame } from '@react-three/fiber';
 import { useThree } from '@react-three/fiber';
-import { useTexture } from '@react-three/drei';
 
 const Plane: React.FC = () => {
   const { scene, animations } = useGLTF('/assets/spitfire.glb');

@@ -1,4 +1,4 @@
-import { Canvas } from 'react-three-fiber';
+import { Canvas } from '@react-three/fiber';
 import { Environment } from '@react-three/drei'
 import Plane from './components/Plane';
 import { OrbitControls } from '@react-three/drei';
