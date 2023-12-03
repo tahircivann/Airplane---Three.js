@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tahircivann.github.io/Airplane-Three-Game",
   "name": "r3f-game",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +47,7 @@
   },
   "devDependencies": {
     "@react-three/fiber": "^8.15.12",
-    "@types/three": "^0.159.0"
+    "@types/three": "^0.159.0",
+    "gh-pages": "^6.1.0"
   }
 }
