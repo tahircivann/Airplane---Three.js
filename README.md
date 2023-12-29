@@ -1,7 +1,7 @@
 # Deployed Page
 https://tahircivann.github.io/Airplane-Three-Game/
 
-# Deployed Page
+# Youtube
 Youtube Video: https://www.youtube.com/watch?v=_F9NpsFX3HQ
 ## Available Scripts
 
